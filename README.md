@@ -6,7 +6,7 @@
 
 </div>
 
-This is the main monorepo codebase of [Spectrum](https://spectrum.chat). Every single line of code that's not packaged into a reusable library is in this repository.
+This is the main monorepo codebase of [Kampus](https://kampus.chat). Every single line of code that's not packaged into a reusable library is in this repository.
 
 ## What is Spectrum?
 
