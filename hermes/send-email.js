@@ -23,8 +23,8 @@ type Options = {
 
 const defaultOptions = {
   from: {
-    email: 'hi@spectrum.chat',
-    name: 'Spectrum',
+    email: 'hi@kampus.chat',
+    name: 'Kampus',
   },
   tracking_settings: {
     click_tracking: {
