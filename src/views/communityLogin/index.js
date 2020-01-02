@@ -95,7 +95,7 @@ export class Login extends React.Component<Props, State> {
             <Subtitle>
               {brandedLogin.message && brandedLogin.message.length > 0
                 ? brandedLogin.message
-                : 'Spectrum is a place where communities can share, discuss, and grow together. Sign in below to get in on the conversation.'}
+                : 'Kampus is a place where Academic communities can share, discuss, and grow together. Sign in below to get in on the conversation.'}
             </Subtitle>
 
             <LoginButtonSet
@@ -115,9 +115,9 @@ export class Login extends React.Component<Props, State> {
             </OutlineButton>
 
             <CodeOfConduct>
-              By using Spectrum, you agree to our{' '}
+              By using Kampus, you agree to our{' '}
               <a
-                href="https://github.com/withspectrum/code-of-conduct"
+                href="https://github.com/jekoule/kampus/code-of-conduct"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() =>
