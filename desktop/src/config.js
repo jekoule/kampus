@@ -14,10 +14,10 @@ module.exports = {
   APP_REMOTE_HOME_URL: 'https://kampus.chat',
   APP_DEV_HOME_URL: 'http://localhost:3000',
 
-  GITHUB_URL: 'https://github.com/withspectrum/spectrum',
+  GITHUB_URL: 'https://github.com/jekoule/kampus',
   GITHUB_URL_LICENSE:
     'https://github.com/withspectrum/spectrum/blob/alpha/LICENSE',
-  GITHUB_URL_ISSUES: 'https://github.com/withspectrum/spectrum/issues',
+  GITHUB_URL_ISSUES: 'https://github.com/jekoule/kampus/issues',
 
   WINDOW_DEFAULT_HEIGHT: 800,
   WINDOW_DEFAULT_WIDTH: 1300,
