@@ -42,7 +42,7 @@ class Features extends React.Component<Props, State> {
   render() {
     return (
       <Wrapper data-cy="features-page">
-        <Head title={'Spectrum · Features'} />
+        <Head title={'Kampus · Features'} />
 
         <Section background={'blank'} goop={1} color={'brand.alt'}>
           <Intro>
@@ -91,7 +91,7 @@ class Features extends React.Component<Props, State> {
                 <FeatureName>Location, location, location</FeatureName>
                 <FeatureCopy>
                   <p>
-                    Conversations and communities on Spectrum are public,
+                    Conversations and communities on Kampus are public,
                     permalinked, and search engine optimized by default which
                     makes it easy for new members to find and join your
                     community.
@@ -104,7 +104,7 @@ class Features extends React.Component<Props, State> {
                 <FeatureCopy>
                   <p>
                     Skip managing multiple credentials and playing whack-a-mole
-                    with DMs and notifications, Spectrum lets you join as many
+                    with DMs and notifications, Kampus lets you join as many
                     communities as you want with only one account.
                   </p>
                 </FeatureCopy>
@@ -141,7 +141,7 @@ class Features extends React.Component<Props, State> {
                 <FeatureName>Real members. Real reputation.</FeatureName>
                 <FeatureCopy>
                   <p>
-                    With Spectrum’s Rep system, you can see how active and
+                    With Kampus's Rep system, you can see how active and
                     constructive a member is in your community - and globally
                     across communities - which makes it simple to figure out if
                     an issue is a trend or an isolated incident.
@@ -156,7 +156,7 @@ class Features extends React.Component<Props, State> {
                 <FeatureCopy>
                   <p>
                     Identifying a problem is one thing, but it can still be hard
-                    to know how to act on a moderation issue. SAM (Spectrum
+                    to know how to act on a moderation issue. KAM (Kampus
                     Assistant Moderator) helps you make those decisions by
                     recommending proven solutions, automatically flagging toxic
                     messages for removal, and even addressing issues with
