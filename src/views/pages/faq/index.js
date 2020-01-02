@@ -20,7 +20,7 @@ class FAQ extends React.Component<{}> {
       <Wrapper data-cy="faq-page">
         <Head
           title={'Kampus · FAQ'}
-          description={'Frequently asked questions about Spectrum'}
+          description={'Frequently asked questions about Kampus'}
         />
 
         <ContentContainer>
@@ -53,7 +53,7 @@ class FAQ extends React.Component<{}> {
                 All of your personal profile information will be deleted in our
                 database. This includes your name, username, profile photo,
                 cover photo, description, and any connections to 3rd party
-                social networks (that you use to sign in to Spectrum).
+                social networks (that you use to sign in to Kampus).
               </li>
               <li>
                 All existing memberships you have in any community will be
