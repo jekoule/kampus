@@ -19,7 +19,7 @@ export const subscribeToDesktopPush = (
       if (window.interop.isFocused()) {
         return;
       }
-      const data = getItemFromStorage('spectrum');
+      const data = getItemFromStorage('kampus');
       const { title, body, data: notificationData } = formatNotification(
         notification,
         data && data.currentUser.id,
